@@ -1,0 +1,117 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ControlKit/Spritebatch.cs">
+    <Files>
+      <File FileName="DeadXDown/GameForm.cs" Line="1" Column="1" />
+      <File FileName="ControlKit/ContentPipe.cs" Line="6" Column="20" />
+      <File FileName="ControlKit/Spritebatch.cs" Line="66" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="ControlKit" expanded="True">
+            <Node name="Spritebatch.cs" selected="True" />
+          </Node>
+          <Node name="DeadDown" expanded="True" />
+          <Node name="DeadXDown" expanded="True" />
+          <Node name="KeiraWF" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True">
+          <Node name="KeiraWF" expanded="True">
+            <Node name="InternalSection" expanded="True">
+              <Node name="InternalSection.Player" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>GameObjects</Value>
+          <Value>c1</Value>
+          <Value>DistanceIndices</Value>
+          <Value>line</Value>
+          <Value>Collision.IsCollision</Value>
+          <Value>i</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="C:\Users\Moci\Documents\KeiraWF\DeadDown\Player.cs" line="63" column="1" />
+      <Breakpoint enabled="false" file="C:\Users\Moci\Documents\KeiraWF\DeadDown\Player.cs" line="59" column="1" />
+      <Breakpoint enabled="false" file="C:\Users\Moci\Documents\KeiraWF\KeiraWF\AreaWorker.cs" line="230" column="1" />
+      <Breakpoint enabled="false" file="C:\Users\Moci\Documents\KeiraWF\KeiraWF\AreaWorker.cs" line="141" column="1" />
+      <Breakpoint enabled="false" file="/home/moci/Dev/KeiraWF/DeadDown/Form1.cs" line="52" column="1" />
+      <Breakpoint enabled="false" file="/home/moci/Dev/KeiraWF/DeadDown/BitmapRenderer.cs" line="233" column="1" />
+      <Breakpoint enabled="false" file="/home/moci/Dev/KeiraWF/KeiraWF/StaticModel.cs" line="97" column="1" conditionExpression="((Circle)this.Shape).radius == 16" />
+      <Breakpoint enabled="false" file="/home/moci/Dev/KeiraWF/KeiraWF/SimpleArea.cs" line="206" column="1" conditionExpression="((Circle)obj.Shape).radius == 16" />
+      <Breakpoint enabled="false" file="/home/moci/Dev/KeiraWF/KeiraWF/SimpleArea.cs" line="210" column="20" conditionExpression="((Circle)obj.Shape).radius == 16" />
+      <Breakpoint enabled="false" file="/home/moci/Dev/KeiraWF/KeiraWF/RectArea.cs" line="123" column="1" conditionExpression="((Circle)obj.Shape).radius == 16" />
+      <Breakpoint enabled="false" file="/home/moci/Dev/KeiraWF/KeiraWF/RectArea.cs" line="141" column="1" conditionExpression="((Circle)obj.Shape).radius == 16" />
+      <Breakpoint enabled="false" file="/home/moci/Dev/KeiraWF/KeiraWF/RectArea.cs" line="128" column="24" conditionExpression="((Circle)obj.Shape).radius == 16" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Windows\Form1.cs" line="76" offsetX="926" offsetY="1275" expression="fps" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Windows\Form1.cs" line="82" offsetX="889" offsetY="1228" expression="fpsCounter" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Windows\Form1.cs" line="70" offsetX="479" offsetY="1196" expression="t" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Extensions.cs" line="31" offsetX="1067" offsetY="742" expression="fromArray" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Extensions.cs" line="31" offsetX="804" offsetY="741" expression="c" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Extensions.cs" line="44" offsetX="728" offsetY="645" expression="j" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Windows\DoubleBufferedPanel.cs" line="57" offsetX="300" offsetY="1064" expression="aw" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Windows\DoubleBufferedPanel.cs" line="135" offsetX="374" offsetY="2176" expression="invalidRegion" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\AreaWorker.cs" line="57" offsetX="1290" offsetY="1064" expression="v" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\AreaWorker.cs" line="57" offsetX="1290" offsetY="1064" expression="v" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\AreaWorker.cs" line="57" offsetX="1290" offsetY="1064" expression="v" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\AreaWorker.cs" line="57" offsetX="1290" offsetY="1064" expression="circle" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\AreaWorker.cs" line="57" offsetX="1290" offsetY="1064" expression="circle" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Physic.cs" line="15" offsetX="790" offsetY="238" expression="rot" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Physic.cs" line="10" offsetX="705" offsetY="194" expression="pf2" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\AreaWorker.cs" line="103" offsetX="1302" offsetY="1547" expression="Physics" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Physic.cs" line="10" offsetX="1118" offsetY="153" expression="pf1" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Physic.cs" line="10" offsetX="1118" offsetY="153" expression="pf1" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Platform\Vector2.cs" line="45" offsetX="653" offsetY="587" expression="origin" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\GUI\GraphicsExtension.cs" line="12" offsetX="498" offsetY="100" expression="b" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\GUI\GraphicsExtension.cs" line="12" offsetX="499" offsetY="77" expression="a" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\MathHelper.cs" line="33" offsetX="494" offsetY="509" expression="D " liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\MathHelper.cs" line="32" offsetX="525" offsetY="449" expression="asd" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\MathHelper.cs" line="32" offsetX="525" offsetY="474" expression="dsa" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Physic.cs" line="111" offsetX="1476" offsetY="2420" expression="obj.Physical.Velocity" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\AreaWorker.cs" line="197" offsetX="718" offsetY="3111" expression="c1 " liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\AreaWorker.cs" line="99" offsetX="723" offsetY="520" expression="other" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\IntelligentElement.cs" line="77" offsetX="489" offsetY="1314" expression="Meta.Collosed" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Collision.cs" line="41" offsetX="662" offsetY="680" expression="ln" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Physic.cs" line="113" offsetX="844" offsetY="1881" expression="ln" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\AreaWorker.cs" line="137" offsetX="565" offsetY="1478" expression="other" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Physic.cs" line="108" offsetX="985" offsetY="1514" expression="vel" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\GUI\GameLayer.cs" line="252" offsetX="830" offsetY="4256" expression="aw.GameObjects[8].LastPhysicsTime" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Physic.cs" line="202" offsetX="910" offsetY="3610" expression="obj" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Physic.cs" line="202" offsetX="910" offsetY="3610" expression="obj" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Physic.cs" line="202" offsetX="910" offsetY="3610" expression="obj" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Physic.cs" line="202" offsetX="910" offsetY="3610" expression="obj" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\GUI\GameLayer.cs" line="274" offsetX="798" offsetY="4063" expression="drwLine" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\AreaWorker.cs" line="73" offsetX="659" offsetY="923" expression="me" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\AreaWorker.cs" line="73" offsetX="798" offsetY="946" expression="other" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\OverloadBinder.cs" line="39" offsetX="730" offsetY="1010" expression="args[0]" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\OverloadBinder.cs" line="39" offsetX="754" offsetY="1055" expression="args[1]" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\KeiraXgame\KeiraXgame\Worker\Collision.cs" line="19" offsetX="598" offsetY="113" expression="grp.Members" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\GotKeira\GotKeira\GotKeira\GameLayer.cs" line="277" offsetX="639" offsetY="4520" expression="drwLine" liveUpdate="False" />
+    <Watch file="..\Develop\Game Engines\GotKeira\GotKeira\GotKeira\GameLayer.cs" line="276" offsetX="611" offsetY="4268" expression="a" liveUpdate="False" />
+    <Watch file="KeiraWF\Collision.cs" line="92" offsetX="470" offsetY="1414" expression="ln1" liveUpdate="False" />
+    <Watch file="KeiraWF\Collision.cs" line="93" offsetX="467" offsetY="1503" expression="ln2" liveUpdate="False" />
+    <Watch file="KeiraWF/Collision.cs" line="99" offsetX="465" offsetY="1577" expression="ln1" liveUpdate="False" />
+    <Watch file="KeiraWF/Collision.cs" line="102" offsetX="435" offsetY="1532" expression="ln2" liveUpdate="False" />
+    <Watch file="DeadDown/Player.cs" line="55" offsetX="1092" offsetY="1080" expression="points" liveUpdate="False" />
+    <Watch file="DeadDown/Player.cs" line="55" offsetX="1092" offsetY="1080" expression="points" liveUpdate="False" />
+    <Watch file="DeadDown/Player.cs" line="90" offsetX="440" offsetY="1424" expression="idx" liveUpdate="False" />
+    <Watch file="DeadDown/Player.cs" line="125" offsetX="954" offsetY="2728" expression="way" liveUpdate="False" />
+    <Watch file="DeadDown/Player.cs" line="122" offsetX="524" offsetY="2662" expression="way" liveUpdate="False" />
+    <Watch file="DeadDown/Player.cs" line="201" offsetX="654" offsetY="3600" expression="points[0]" liveUpdate="False" />
+    <Watch file="DeadXDown/GameForm.cs" line="43" offsetX="347" offsetY="714" expression="Enemies" liveUpdate="False" />
+    <Watch file="ControlKit/Button.cs" line="22" offsetX="997" offsetY="525" expression="offTexture" liveUpdate="False" />
+    <Watch file="ControlKit/glControl.cs" line="82" offsetX="661" offsetY="2025" expression="location" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

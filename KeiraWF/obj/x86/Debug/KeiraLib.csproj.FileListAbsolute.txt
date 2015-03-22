@@ -1,0 +1,4 @@
+C:\Users\Moci\Documents\KeiraWF\KeiraWF\bin\Debug\KeiraWF.dll
+C:\Users\Moci\Documents\KeiraWF\KeiraWF\bin\Debug\KeiraWF.pdb
+C:\Users\Moci\Documents\KeiraWF\KeiraWF\obj\x86\Debug\KeiraWF.dll
+C:\Users\Moci\Documents\KeiraWF\KeiraWF\obj\x86\Debug\KeiraWF.pdb

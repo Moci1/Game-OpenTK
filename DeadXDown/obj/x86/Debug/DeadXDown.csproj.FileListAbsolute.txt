@@ -1,0 +1,14 @@
+F:\Dev\KeiraWF\DeadXDown\bin\Debug\Content\302.jpg
+F:\Dev\KeiraWF\DeadXDown\bin\Debug\DeadXDown.exe
+F:\Dev\KeiraWF\DeadXDown\bin\Debug\DeadXDown.pdb
+F:\Dev\KeiraWF\DeadXDown\bin\Debug\KeiraWF.dll
+F:\Dev\KeiraWF\DeadXDown\bin\Debug\OpenTK.Compatibility.dll
+F:\Dev\KeiraWF\DeadXDown\bin\Debug\OpenTK.dll
+F:\Dev\KeiraWF\DeadXDown\bin\Debug\OpenTK.GLControl.dll
+F:\Dev\KeiraWF\DeadXDown\bin\Debug\KeiraWF.pdb
+F:\Dev\KeiraWF\DeadXDown\bin\Debug\OpenTK.pdb
+F:\Dev\KeiraWF\DeadXDown\bin\Debug\OpenTK.xml
+F:\Dev\KeiraWF\DeadXDown\bin\Debug\OpenTK.GLControl.xml
+F:\Dev\KeiraWF\DeadXDown\obj\x86\Debug\DeadXDown.csprojResolveAssemblyReference.cache
+F:\Dev\KeiraWF\DeadXDown\obj\x86\Debug\DeadXDown.exe
+F:\Dev\KeiraWF\DeadXDown\obj\x86\Debug\DeadXDown.pdb

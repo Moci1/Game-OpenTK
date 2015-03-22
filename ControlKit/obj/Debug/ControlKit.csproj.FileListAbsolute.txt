@@ -1,0 +1,4 @@
+F:\Dev\KeiraWF\ControlKit\bin\Debug\ControlKit.dll
+F:\Dev\KeiraWF\ControlKit\bin\Debug\ControlKit.pdb
+F:\Dev\KeiraWF\ControlKit\obj\Debug\ControlKit.dll
+F:\Dev\KeiraWF\ControlKit\obj\Debug\ControlKit.pdb

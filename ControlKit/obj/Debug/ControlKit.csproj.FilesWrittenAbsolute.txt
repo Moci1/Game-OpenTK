@@ -1,0 +1,13 @@
+/home/moci/Dev/KeiraWF/ControlKit/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/moci/Dev/KeiraWF/ControlKit/bin/Debug/ControlKit.dll.mdb
+/home/moci/Dev/KeiraWF/ControlKit/bin/Debug/ControlKit.dll
+/home/moci/Dev/KeiraWF/ControlKit/obj/Debug/ControlKit.dll
+/home/moci/Dev/KeiraWF/ControlKit/obj/Debug/ControlKit.dll.mdb
+/media/moci/Kingston16G/Dev/KeiraWF/ControlKit/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/media/moci/Kingston16G/Dev/KeiraWF/ControlKit/bin/Debug/ControlKit.dll.mdb
+/media/moci/Kingston16G/Dev/KeiraWF/ControlKit/bin/Debug/ControlKit.dll
+/media/moci/Kingston16G/Dev/KeiraWF/ControlKit/obj/Debug/ControlKit.dll
+/media/moci/Kingston16G/Dev/KeiraWF/ControlKit/obj/Debug/ControlKit.dll.mdb
+/home/moci/Dev/KeiraWF/ControlKit/bin/Debug/OpenTK.Compatibility.dll
+/home/moci/Dev/KeiraWF/ControlKit/bin/Debug/OpenTK.dll
+/home/moci/Dev/KeiraWF/ControlKit/bin/Debug/OpenTK.GLControl.dll

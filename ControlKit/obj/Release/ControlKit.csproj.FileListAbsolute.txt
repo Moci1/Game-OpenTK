@@ -1,0 +1,10 @@
+C:\Users\Moci\Documents\Visual Studio 2010\Projects\KeiraWF\ControlKit\bin\Release\ControlKit.dll
+C:\Users\Moci\Documents\Visual Studio 2010\Projects\KeiraWF\ControlKit\bin\Release\ControlKit.pdb
+C:\Users\Moci\Documents\Visual Studio 2010\Projects\KeiraWF\ControlKit\obj\Release\ControlKit.dll
+C:\Users\Moci\Documents\Visual Studio 2010\Projects\KeiraWF\ControlKit\obj\Release\ControlKit.pdb
+C:\Users\Moci\Documents\Visual Studio 2010\Projects\KeiraWF\ControlKit\obj\Release\ControlKit.csprojResolveAssemblyReference.cache
+F:\Dev\KeiraWF\ControlKit\bin\Release\ControlKit.dll
+F:\Dev\KeiraWF\ControlKit\bin\Release\ControlKit.pdb
+F:\Dev\KeiraWF\ControlKit\obj\Release\ControlKit.csprojResolveAssemblyReference.cache
+F:\Dev\KeiraWF\ControlKit\obj\Release\ControlKit.dll
+F:\Dev\KeiraWF\ControlKit\obj\Release\ControlKit.pdb

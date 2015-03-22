@@ -1,0 +1,5 @@
+/home/moci/Dev/KeiraWF/ControlKit/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/moci/Dev/KeiraWF/ControlKit/bin/Release/ControlKit.dll.mdb
+/home/moci/Dev/KeiraWF/ControlKit/bin/Release/ControlKit.dll
+/home/moci/Dev/KeiraWF/ControlKit/obj/Release/ControlKit.dll
+/home/moci/Dev/KeiraWF/ControlKit/obj/Release/ControlKit.dll.mdb

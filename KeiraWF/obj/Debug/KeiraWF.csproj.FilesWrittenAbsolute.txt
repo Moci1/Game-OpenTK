@@ -1,0 +1,15 @@
+/home/moci/Dev/copied/KeiraWF/KeiraWF/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/moci/Dev/copied/KeiraWF/KeiraWF/bin/Debug/KeiraWF.dll.mdb
+/home/moci/Dev/copied/KeiraWF/KeiraWF/bin/Debug/KeiraWF.dll
+/home/moci/Dev/copied/KeiraWF/KeiraWF/obj/Debug/KeiraWF.dll
+/home/moci/Dev/copied/KeiraWF/KeiraWF/obj/Debug/KeiraWF.dll.mdb
+/home/moci/Dev/KeiraWF/KeiraWF/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/moci/Dev/KeiraWF/KeiraWF/bin/Debug/KeiraWF.dll.mdb
+/home/moci/Dev/KeiraWF/KeiraWF/bin/Debug/KeiraWF.dll
+/home/moci/Dev/KeiraWF/KeiraWF/obj/Debug/KeiraWF.dll
+/home/moci/Dev/KeiraWF/KeiraWF/obj/Debug/KeiraWF.dll.mdb
+/media/moci/Kingston16G/Dev/KeiraWF/KeiraWF/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/media/moci/Kingston16G/Dev/KeiraWF/KeiraWF/bin/Debug/KeiraWF.dll.mdb
+/media/moci/Kingston16G/Dev/KeiraWF/KeiraWF/bin/Debug/KeiraWF.dll
+/media/moci/Kingston16G/Dev/KeiraWF/KeiraWF/obj/Debug/KeiraWF.dll
+/media/moci/Kingston16G/Dev/KeiraWF/KeiraWF/obj/Debug/KeiraWF.dll.mdb

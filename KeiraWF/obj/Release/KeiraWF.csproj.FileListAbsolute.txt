@@ -1,0 +1,13 @@
+C:\Users\Moci\AppData\Local\Temporary Projects\KeiraWF\bin\Release\KeiraWF.dll
+C:\Users\Moci\AppData\Local\Temporary Projects\KeiraWF\bin\Release\KeiraWF.pdb
+C:\Users\Moci\AppData\Local\Temporary Projects\KeiraWF\obj\Release\KeiraWF.dll
+C:\Users\Moci\AppData\Local\Temporary Projects\KeiraWF\obj\Release\KeiraWF.pdb
+C:\Users\Moci\documents\visual studio 2010\Projects\KeiraWF\KeiraWF\bin\Release\KeiraWF.dll
+C:\Users\Moci\documents\visual studio 2010\Projects\KeiraWF\KeiraWF\bin\Release\KeiraWF.pdb
+C:\Users\Moci\documents\visual studio 2010\Projects\KeiraWF\KeiraWF\obj\Release\KeiraWF.dll
+C:\Users\Moci\documents\visual studio 2010\Projects\KeiraWF\KeiraWF\obj\Release\KeiraWF.pdb
+F:\Dev\KeiraWF\KeiraWF\obj\Release\KeiraWF.dll
+F:\Dev\KeiraWF\KeiraWF\bin\Release\KeiraWF.dll
+F:\Dev\KeiraWF\KeiraWF\bin\Release\KeiraWF.pdb
+F:\Dev\KeiraWF\KeiraWF\obj\Release\KeiraWF.csprojResolveAssemblyReference.cache
+F:\Dev\KeiraWF\KeiraWF\obj\Release\KeiraWF.pdb

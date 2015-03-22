@@ -1,0 +1,5 @@
+/home/moci/Dev/KeiraWF/KeiraWF/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/moci/Dev/KeiraWF/KeiraWF/bin/Release/KeiraWF.dll.mdb
+/home/moci/Dev/KeiraWF/KeiraWF/bin/Release/KeiraWF.dll
+/home/moci/Dev/KeiraWF/KeiraWF/obj/Release/KeiraWF.dll
+/home/moci/Dev/KeiraWF/KeiraWF/obj/Release/KeiraWF.dll.mdb

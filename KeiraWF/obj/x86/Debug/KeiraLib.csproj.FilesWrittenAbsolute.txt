@@ -1,0 +1,5 @@
+/home/moci/Dev/KeiraWF/KeiraWF/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/moci/Dev/KeiraWF/KeiraWF/obj/x86/Debug/KeiraWF.dll
+/home/moci/Dev/KeiraWF/KeiraWF/bin/Debug/KeiraWF.dll.mdb
+/home/moci/Dev/KeiraWF/KeiraWF/bin/Debug/KeiraWF.dll
+/home/moci/Dev/KeiraWF/KeiraWF/obj/x86/Debug/KeiraWF.dll.mdb

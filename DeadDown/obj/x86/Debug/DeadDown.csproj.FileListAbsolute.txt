@@ -1,0 +1,24 @@
+C:\Users\Moci\documents\visual studio 2010\Projects\KeiraWF\DeadDown\obj\x86\Debug\DeadDown.csprojResolveAssemblyReference.cache
+C:\Users\Moci\documents\visual studio 2010\Projects\KeiraWF\DeadDown\obj\x86\Debug\DeadDown.Properties.Resources.resources
+C:\Users\Moci\documents\visual studio 2010\Projects\KeiraWF\DeadDown\obj\x86\Debug\DeadDown.csproj.GenerateResource.Cache
+C:\Users\Moci\documents\visual studio 2010\Projects\KeiraWF\DeadDown\bin\Debug\DeadDown.exe
+C:\Users\Moci\documents\visual studio 2010\Projects\KeiraWF\DeadDown\bin\Debug\DeadDown.pdb
+C:\Users\Moci\documents\visual studio 2010\Projects\KeiraWF\DeadDown\bin\Debug\KeiraWF.dll
+C:\Users\Moci\documents\visual studio 2010\Projects\KeiraWF\DeadDown\bin\Debug\KeiraWF.pdb
+C:\Users\Moci\documents\visual studio 2010\Projects\KeiraWF\DeadDown\obj\x86\Debug\DeadDown.exe
+C:\Users\Moci\documents\visual studio 2010\Projects\KeiraWF\DeadDown\obj\x86\Debug\DeadDown.pdb
+C:\Users\Moci\documents\visual studio 2010\Projects\KeiraWF\DeadDown\obj\x86\Debug\DeadDown.Form1.resources
+F:\Dev\KeiraWF\DeadDown\obj\x86\Debug\DeadDown.exe
+F:\Dev\KeiraWF\DeadDown\obj\x86\Debug\DeadDown.pdb
+F:\Dev\KeiraWF\DeadDown\bin\Debug\DeadDown.exe
+F:\Dev\KeiraWF\DeadDown\bin\Debug\DeadDown.pdb
+F:\Dev\KeiraWF\DeadDown\bin\Debug\ControlKit.dll
+F:\Dev\KeiraWF\DeadDown\bin\Debug\KeiraWF.dll
+F:\Dev\KeiraWF\DeadDown\bin\Debug\KeiraWF.pdb
+F:\Dev\KeiraWF\DeadDown\bin\Debug\ControlKit.pdb
+F:\Dev\KeiraWF\DeadDown\obj\x86\Debug\DeadDown.csprojResolveAssemblyReference.cache
+F:\Dev\KeiraWF\DeadDown\obj\x86\Debug\DeadDown.Properties.Resources.resources
+F:\Dev\KeiraWF\DeadDown\obj\x86\Debug\DeadDown.csproj.GenerateResource.Cache
+C:\Users\Moci\Documents\Visual Studio 2010\Projects\KeiraWF\DeadDown\bin\Debug\ControlKit.dll
+C:\Users\Moci\Documents\Visual Studio 2010\Projects\KeiraWF\DeadDown\bin\Debug\ControlKit.pdb
+F:\Dev\KeiraWF\DeadDown\obj\x86\Debug\DeadDown.Ext.resources

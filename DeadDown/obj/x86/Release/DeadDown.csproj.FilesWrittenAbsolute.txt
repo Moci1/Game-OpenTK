@@ -1,0 +1,11 @@
+/home/moci/Dev/KeiraWF/DeadDown/obj/x86/Release/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/moci/Dev/KeiraWF/DeadDown/obj/x86/Release/DeadDown.Ext.resources
+/home/moci/Dev/KeiraWF/DeadDown/obj/x86/Release/DeadDown.Properties.Resources.resources
+/home/moci/Dev/KeiraWF/DeadDown/bin/Release/DeadDown.exe.mdb
+/home/moci/Dev/KeiraWF/DeadDown/bin/Release/DeadDown.exe
+/home/moci/Dev/KeiraWF/DeadDown/obj/x86/Release/DeadDown.exe
+/home/moci/Dev/KeiraWF/DeadDown/obj/x86/Release/DeadDown.exe.mdb
+/home/moci/Dev/KeiraWF/DeadDown/bin/Release/ControlKit.dll
+/home/moci/Dev/KeiraWF/DeadDown/bin/Release/ControlKit.dll.mdb
+/home/moci/Dev/KeiraWF/DeadDown/bin/Release/KeiraWF.dll
+/home/moci/Dev/KeiraWF/DeadDown/bin/Release/KeiraWF.dll.mdb
